@@ -1,0 +1,1376 @@
+date,device_category,traffic_source,sessions,users,purchases
+2020-11-01,desktop,shop.googlemerchandisestore.com,121,122,2
+2020-11-01,tablet,(direct),6,6,0
+2020-11-01,desktop,google,561,548,2
+2020-11-01,tablet,<Other>,24,24,0
+2020-11-01,mobile,google,359,354,0
+2020-11-01,desktop,<Other>,410,403,2
+2020-11-01,mobile,<Other>,282,277,1
+2020-11-01,desktop,(direct),344,339,2
+2020-11-01,mobile,(data deleted),52,51,0
+2020-11-01,mobile,(direct),261,253,4
+2020-11-01,tablet,google,12,12,0
+2020-11-01,desktop,(data deleted),69,73,1
+2020-11-01,mobile,shop.googlemerchandisestore.com,85,85,0
+2020-11-01,tablet,shop.googlemerchandisestore.com,6,6,0
+2020-11-01,tablet,(data deleted),2,2,0
+2020-11-02,desktop,(data deleted),148,145,9
+2020-11-02,mobile,shop.googlemerchandisestore.com,121,123,4
+2020-11-02,desktop,google,706,684,7
+2020-11-02,desktop,<Other>,611,603,5
+2020-11-02,mobile,(data deleted),109,109,3
+2020-11-02,desktop,shop.googlemerchandisestore.com,194,191,3
+2020-11-02,mobile,(direct),335,326,4
+2020-11-02,mobile,google,537,524,4
+2020-11-02,mobile,<Other>,377,365,2
+2020-11-02,desktop,(direct),474,473,7
+2020-11-02,tablet,shop.googlemerchandisestore.com,6,6,0
+2020-11-02,tablet,google,31,31,0
+2020-11-02,tablet,<Other>,17,17,1
+2020-11-02,tablet,(direct),12,12,0
+2020-11-02,tablet,(data deleted),4,4,0
+2020-11-03,mobile,google,766,751,2
+2020-11-03,desktop,(direct),718,699,8
+2020-11-03,tablet,(direct),25,25,0
+2020-11-03,mobile,(direct),491,479,6
+2020-11-03,desktop,google,1118,1087,6
+2020-11-03,desktop,<Other>,811,794,7
+2020-11-03,mobile,(data deleted),146,143,5
+2020-11-03,tablet,google,36,35,0
+2020-11-03,mobile,<Other>,554,535,4
+2020-11-03,desktop,shop.googlemerchandisestore.com,227,227,3
+2020-11-03,desktop,(data deleted),180,178,6
+2020-11-03,mobile,shop.googlemerchandisestore.com,164,165,2
+2020-11-03,tablet,<Other>,35,34,0
+2020-11-03,tablet,(data deleted),3,3,0
+2020-11-03,tablet,shop.googlemerchandisestore.com,11,11,0
+2020-11-04,desktop,(direct),580,567,4
+2020-11-04,mobile,(direct),357,351,1
+2020-11-04,desktop,google,847,835,6
+2020-11-04,desktop,<Other>,688,673,16
+2020-11-04,desktop,(data deleted),168,172,5
+2020-11-04,mobile,shop.googlemerchandisestore.com,149,143,0
+2020-11-04,mobile,google,588,569,2
+2020-11-04,tablet,<Other>,27,27,0
+2020-11-04,mobile,<Other>,454,440,7
+2020-11-04,desktop,shop.googlemerchandisestore.com,209,212,2
+2020-11-04,mobile,(data deleted),127,121,2
+2020-11-04,tablet,(data deleted),11,11,0
+2020-11-04,tablet,(direct),17,18,0
+2020-11-04,tablet,shop.googlemerchandisestore.com,15,14,1
+2020-11-04,tablet,google,44,44,0
+2020-11-05,desktop,<Other>,536,524,6
+2020-11-05,mobile,<Other>,370,365,3
+2020-11-05,desktop,(data deleted),201,191,3
+2020-11-05,desktop,google,745,735,2
+2020-11-05,desktop,(direct),484,475,2
+2020-11-05,tablet,<Other>,29,29,0
+2020-11-05,desktop,shop.googlemerchandisestore.com,189,189,3
+2020-11-05,tablet,(direct),21,20,1
+2020-11-05,mobile,google,551,531,0
+2020-11-05,mobile,(direct),347,342,3
+2020-11-05,mobile,shop.googlemerchandisestore.com,147,146,0
+2020-11-05,tablet,google,26,26,0
+2020-11-05,mobile,(data deleted),136,130,3
+2020-11-05,tablet,(data deleted),6,6,0
+2020-11-05,tablet,shop.googlemerchandisestore.com,7,7,0
+2020-11-06,mobile,(data deleted),114,109,1
+2020-11-06,desktop,shop.googlemerchandisestore.com,191,190,3
+2020-11-06,mobile,google,436,435,16
+2020-11-06,desktop,(direct),421,411,7
+2020-11-06,mobile,<Other>,325,324,3
+2020-11-06,desktop,google,669,645,10
+2020-11-06,desktop,<Other>,459,450,6
+2020-11-06,desktop,(data deleted),150,148,2
+2020-11-06,mobile,(direct),307,298,5
+2020-11-06,mobile,shop.googlemerchandisestore.com,117,118,2
+2020-11-06,tablet,(direct),20,19,0
+2020-11-06,tablet,google,27,27,1
+2020-11-06,tablet,shop.googlemerchandisestore.com,4,4,0
+2020-11-06,tablet,<Other>,18,18,1
+2020-11-06,tablet,(data deleted),7,6,1
+2020-11-07,desktop,<Other>,319,322,3
+2020-11-07,mobile,(direct),235,220,2
+2020-11-07,desktop,(direct),304,300,4
+2020-11-07,desktop,google,452,450,7
+2020-11-07,desktop,shop.googlemerchandisestore.com,106,108,2
+2020-11-07,desktop,(data deleted),77,81,1
+2020-11-07,mobile,google,317,303,8
+2020-11-07,mobile,shop.googlemerchandisestore.com,66,69,0
+2020-11-07,tablet,(direct),9,9,0
+2020-11-07,mobile,(data deleted),55,56,0
+2020-11-07,mobile,<Other>,259,252,4
+2020-11-07,tablet,(data deleted),5,6,0
+2020-11-07,tablet,<Other>,8,8,0
+2020-11-07,tablet,shop.googlemerchandisestore.com,6,6,0
+2020-11-07,tablet,google,21,20,0
+2020-11-08,desktop,google,455,448,4
+2020-11-08,desktop,<Other>,346,342,4
+2020-11-08,desktop,(direct),267,263,2
+2020-11-08,mobile,<Other>,225,216,4
+2020-11-08,mobile,google,279,276,5
+2020-11-08,mobile,(data deleted),54,51,0
+2020-11-08,mobile,(direct),196,195,3
+2020-11-08,mobile,shop.googlemerchandisestore.com,77,80,3
+2020-11-08,desktop,shop.googlemerchandisestore.com,110,107,1
+2020-11-08,tablet,(direct),10,10,0
+2020-11-08,tablet,<Other>,13,13,0
+2020-11-08,desktop,(data deleted),81,82,4
+2020-11-08,tablet,google,10,10,0
+2020-11-08,tablet,(data deleted),4,4,2
+2020-11-08,tablet,shop.googlemerchandisestore.com,6,6,0
+2020-11-09,tablet,(direct),17,19,0
+2020-11-09,tablet,google,36,37,0
+2020-11-09,desktop,<Other>,495,482,7
+2020-11-09,mobile,<Other>,332,331,3
+2020-11-09,desktop,shop.googlemerchandisestore.com,144,147,2
+2020-11-09,desktop,(direct),470,459,8
+2020-11-09,mobile,google,428,425,6
+2020-11-09,mobile,(direct),300,290,5
+2020-11-09,desktop,google,630,621,6
+2020-11-09,desktop,(data deleted),142,140,6
+2020-11-09,mobile,(data deleted),85,84,6
+2020-11-09,tablet,<Other>,19,19,0
+2020-11-09,mobile,shop.googlemerchandisestore.com,111,111,3
+2020-11-09,tablet,shop.googlemerchandisestore.com,9,8,0
+2020-11-09,tablet,(data deleted),9,9,0
+2020-11-10,desktop,<Other>,572,557,8
+2020-11-10,desktop,shop.googlemerchandisestore.com,195,192,3
+2020-11-10,mobile,<Other>,413,415,8
+2020-11-10,mobile,google,540,524,8
+2020-11-10,mobile,(direct),329,322,3
+2020-11-10,desktop,(direct),512,496,13
+2020-11-10,desktop,google,747,719,9
+2020-11-10,desktop,(data deleted),153,149,2
+2020-11-10,mobile,(data deleted),110,108,6
+2020-11-10,mobile,shop.googlemerchandisestore.com,146,143,4
+2020-11-10,tablet,shop.googlemerchandisestore.com,5,5,0
+2020-11-10,tablet,google,23,23,0
+2020-11-10,tablet,(direct),9,9,0
+2020-11-10,tablet,<Other>,22,23,0
+2020-11-10,tablet,(data deleted),8,8,0
+2020-11-11,mobile,google,538,527,8
+2020-11-11,desktop,shop.googlemerchandisestore.com,190,185,5
+2020-11-11,mobile,(data deleted),113,113,5
+2020-11-11,desktop,(direct),474,467,5
+2020-11-11,desktop,google,795,765,9
+2020-11-11,mobile,(direct),331,324,8
+2020-11-11,mobile,<Other>,373,367,5
+2020-11-11,tablet,(direct),21,20,1
+2020-11-11,desktop,<Other>,578,561,14
+2020-11-11,desktop,(data deleted),166,163,4
+2020-11-11,mobile,shop.googlemerchandisestore.com,115,117,0
+2020-11-11,tablet,<Other>,29,28,0
+2020-11-11,tablet,google,35,35,0
+2020-11-11,tablet,(data deleted),3,4,0
+2020-11-11,tablet,shop.googlemerchandisestore.com,4,4,0
+2020-11-12,desktop,<Other>,552,539,5
+2020-11-12,desktop,google,696,694,7
+2020-11-12,desktop,shop.googlemerchandisestore.com,196,194,8
+2020-11-12,mobile,google,484,468,5
+2020-11-12,mobile,<Other>,370,362,5
+2020-11-12,desktop,(data deleted),147,151,3
+2020-11-12,mobile,(direct),331,327,4
+2020-11-12,desktop,(direct),525,518,7
+2020-11-12,tablet,google,22,21,0
+2020-11-12,mobile,(data deleted),128,124,1
+2020-11-12,mobile,shop.googlemerchandisestore.com,139,138,9
+2020-11-12,tablet,(direct),16,16,0
+2020-11-12,tablet,(data deleted),3,3,0
+2020-11-12,tablet,<Other>,17,17,0
+2020-11-12,tablet,shop.googlemerchandisestore.com,5,4,0
+2020-11-13,desktop,(direct),499,486,16
+2020-11-13,desktop,shop.googlemerchandisestore.com,166,165,6
+2020-11-13,desktop,<Other>,482,468,16
+2020-11-13,desktop,google,648,632,7
+2020-11-13,mobile,(data deleted),98,97,8
+2020-11-13,desktop,(data deleted),137,135,9
+2020-11-13,mobile,(direct),301,292,3
+2020-11-13,mobile,google,436,430,8
+2020-11-13,tablet,<Other>,26,24,0
+2020-11-13,mobile,<Other>,341,339,5
+2020-11-13,mobile,shop.googlemerchandisestore.com,105,104,1
+2020-11-13,tablet,google,36,34,0
+2020-11-13,tablet,(direct),14,14,0
+2020-11-13,tablet,shop.googlemerchandisestore.com,7,7,0
+2020-11-13,tablet,(data deleted),4,4,0
+2020-11-14,desktop,google,448,443,3
+2020-11-14,mobile,google,355,345,1
+2020-11-14,desktop,(direct),298,297,2
+2020-11-14,desktop,<Other>,376,368,8
+2020-11-14,mobile,shop.googlemerchandisestore.com,88,85,3
+2020-11-14,mobile,(direct),192,192,3
+2020-11-14,desktop,(data deleted),104,103,3
+2020-11-14,desktop,shop.googlemerchandisestore.com,110,113,2
+2020-11-14,mobile,(data deleted),63,64,2
+2020-11-14,mobile,<Other>,245,244,3
+2020-11-14,tablet,(data deleted),4,4,0
+2020-11-14,tablet,google,17,16,0
+2020-11-14,tablet,(direct),16,15,0
+2020-11-14,tablet,<Other>,15,15,0
+2020-11-14,tablet,shop.googlemerchandisestore.com,3,3,0
+2020-11-15,tablet,<Other>,11,10,1
+2020-11-15,desktop,(direct),308,295,3
+2020-11-15,desktop,<Other>,357,354,4
+2020-11-15,desktop,google,420,407,3
+2020-11-15,tablet,(data deleted),3,2,0
+2020-11-15,mobile,google,316,311,2
+2020-11-15,desktop,(data deleted),74,77,2
+2020-11-15,desktop,shop.googlemerchandisestore.com,102,102,1
+2020-11-15,mobile,(data deleted),44,41,1
+2020-11-15,mobile,shop.googlemerchandisestore.com,68,68,2
+2020-11-15,mobile,<Other>,243,236,1
+2020-11-15,mobile,(direct),212,214,1
+2020-11-15,tablet,(direct),14,14,0
+2020-11-15,tablet,google,14,12,0
+2020-11-15,tablet,shop.googlemerchandisestore.com,4,4,0
+2020-11-16,mobile,google,462,452,13
+2020-11-16,desktop,google,693,672,10
+2020-11-16,desktop,<Other>,535,526,7
+2020-11-16,tablet,<Other>,17,15,1
+2020-11-16,mobile,(direct),341,338,6
+2020-11-16,desktop,(direct),426,427,13
+2020-11-16,mobile,<Other>,373,374,4
+2020-11-16,mobile,(data deleted),102,99,1
+2020-11-16,tablet,shop.googlemerchandisestore.com,10,9,0
+2020-11-16,tablet,google,24,24,0
+2020-11-16,desktop,shop.googlemerchandisestore.com,194,190,2
+2020-11-16,desktop,(data deleted),173,165,5
+2020-11-16,mobile,shop.googlemerchandisestore.com,123,121,5
+2020-11-16,tablet,(data deleted),6,6,0
+2020-11-16,tablet,(direct),17,17,2
+2020-11-17,mobile,<Other>,436,432,8
+2020-11-17,mobile,shop.googlemerchandisestore.com,155,156,2
+2020-11-17,desktop,shop.googlemerchandisestore.com,198,199,9
+2020-11-17,desktop,<Other>,589,586,13
+2020-11-17,mobile,google,544,520,16
+2020-11-17,mobile,(data deleted),144,140,7
+2020-11-17,desktop,(data deleted),195,191,9
+2020-11-17,desktop,google,782,765,11
+2020-11-17,mobile,(direct),386,379,9
+2020-11-17,desktop,(direct),503,503,14
+2020-11-17,tablet,<Other>,21,20,0
+2020-11-17,tablet,google,24,23,0
+2020-11-17,tablet,(direct),18,18,0
+2020-11-17,tablet,(data deleted),8,8,0
+2020-11-17,tablet,shop.googlemerchandisestore.com,9,9,0
+2020-11-18,desktop,google,814,778,7
+2020-11-18,desktop,shop.googlemerchandisestore.com,205,195,1
+2020-11-18,desktop,<Other>,593,585,9
+2020-11-18,desktop,(direct),563,545,12
+2020-11-18,desktop,(data deleted),168,171,7
+2020-11-18,mobile,(direct),385,380,9
+2020-11-18,mobile,shop.googlemerchandisestore.com,133,134,5
+2020-11-18,mobile,<Other>,431,425,4
+2020-11-18,mobile,google,577,561,11
+2020-11-18,tablet,<Other>,19,19,0
+2020-11-18,mobile,(data deleted),125,124,3
+2020-11-18,tablet,(direct),21,20,0
+2020-11-18,tablet,google,37,37,0
+2020-11-18,tablet,(data deleted),9,8,0
+2020-11-18,tablet,shop.googlemerchandisestore.com,12,10,0
+2020-11-19,mobile,google,527,517,8
+2020-11-19,mobile,(direct),355,352,11
+2020-11-19,mobile,<Other>,415,411,12
+2020-11-19,desktop,(direct),595,573,7
+2020-11-19,desktop,google,853,828,10
+2020-11-19,desktop,<Other>,638,615,14
+2020-11-19,tablet,google,32,32,0
+2020-11-19,desktop,shop.googlemerchandisestore.com,230,216,9
+2020-11-19,mobile,shop.googlemerchandisestore.com,136,135,4
+2020-11-19,mobile,(data deleted),129,123,4
+2020-11-19,desktop,(data deleted),182,182,5
+2020-11-19,tablet,<Other>,25,26,0
+2020-11-19,tablet,(direct),23,23,0
+2020-11-19,tablet,(data deleted),5,7,0
+2020-11-19,tablet,shop.googlemerchandisestore.com,9,9,0
+2020-11-20,desktop,<Other>,621,602,8
+2020-11-20,mobile,google,595,564,22
+2020-11-20,desktop,(direct),556,540,16
+2020-11-20,mobile,<Other>,420,408,13
+2020-11-20,desktop,(data deleted),186,177,10
+2020-11-20,mobile,(direct),394,388,10
+2020-11-20,desktop,google,782,757,17
+2020-11-20,mobile,shop.googlemerchandisestore.com,145,142,6
+2020-11-20,desktop,shop.googlemerchandisestore.com,184,182,6
+2020-11-20,tablet,(direct),20,19,0
+2020-11-20,mobile,(data deleted),122,121,10
+2020-11-20,tablet,<Other>,19,19,0
+2020-11-20,tablet,google,30,30,0
+2020-11-20,tablet,shop.googlemerchandisestore.com,5,5,0
+2020-11-20,tablet,(data deleted),5,5,0
+2020-11-21,desktop,(direct),433,424,4
+2020-11-21,mobile,<Other>,319,313,6
+2020-11-21,desktop,(data deleted),119,119,3
+2020-11-21,desktop,<Other>,503,487,18
+2020-11-21,desktop,google,637,615,10
+2020-11-21,mobile,google,465,461,12
+2020-11-21,tablet,google,28,27,2
+2020-11-21,desktop,shop.googlemerchandisestore.com,148,149,2
+2020-11-21,mobile,(direct),272,266,6
+2020-11-21,mobile,shop.googlemerchandisestore.com,89,87,1
+2020-11-21,tablet,(data deleted),9,10,0
+2020-11-21,mobile,(data deleted),91,91,2
+2020-11-21,tablet,<Other>,19,18,0
+2020-11-21,tablet,(direct),16,15,2
+2020-11-21,tablet,shop.googlemerchandisestore.com,5,5,0
+2020-11-22,desktop,(direct),358,352,8
+2020-11-22,desktop,google,596,573,8
+2020-11-22,mobile,shop.googlemerchandisestore.com,78,76,2
+2020-11-22,mobile,(direct),255,247,4
+2020-11-22,mobile,google,330,319,16
+2020-11-22,mobile,(data deleted),70,68,4
+2020-11-22,desktop,<Other>,427,426,2
+2020-11-22,desktop,(data deleted),86,87,7
+2020-11-22,mobile,<Other>,246,246,3
+2020-11-22,desktop,shop.googlemerchandisestore.com,143,141,6
+2020-11-22,tablet,<Other>,19,19,0
+2020-11-22,tablet,google,20,20,0
+2020-11-22,tablet,shop.googlemerchandisestore.com,5,5,0
+2020-11-22,tablet,(data deleted),4,4,0
+2020-11-22,tablet,(direct),13,13,0
+2020-11-23,desktop,(direct),552,538,11
+2020-11-23,mobile,(direct),369,365,12
+2020-11-23,desktop,google,813,786,26
+2020-11-23,mobile,<Other>,393,386,24
+2020-11-23,mobile,google,540,526,15
+2020-11-23,tablet,(direct),22,22,0
+2020-11-23,desktop,<Other>,569,553,12
+2020-11-23,desktop,shop.googlemerchandisestore.com,162,157,12
+2020-11-23,desktop,(data deleted),156,160,12
+2020-11-23,mobile,shop.googlemerchandisestore.com,140,141,4
+2020-11-23,tablet,google,33,33,3
+2020-11-23,mobile,(data deleted),135,135,6
+2020-11-23,tablet,shop.googlemerchandisestore.com,9,8,4
+2020-11-23,tablet,<Other>,21,21,0
+2020-11-23,tablet,(data deleted),2,2,0
+2020-11-24,desktop,(direct),553,562,25
+2020-11-24,mobile,(direct),368,377,13
+2020-11-24,desktop,google,879,894,26
+2020-11-24,mobile,<Other>,445,447,17
+2020-11-24,mobile,google,571,568,14
+2020-11-24,desktop,(data deleted),158,183,12
+2020-11-24,tablet,<Other>,25,25,1
+2020-11-24,mobile,shop.googlemerchandisestore.com,153,167,7
+2020-11-24,tablet,shop.googlemerchandisestore.com,10,11,0
+2020-11-24,desktop,<Other>,623,637,14
+2020-11-24,desktop,shop.googlemerchandisestore.com,219,240,8
+2020-11-24,mobile,(data deleted),114,136,10
+2020-11-24,tablet,(data deleted),6,6,0
+2020-11-24,tablet,google,25,25,0
+2020-11-24,tablet,(direct),21,21,0
+2020-11-25,desktop,google,896,908,14
+2020-11-25,desktop,shop.googlemerchandisestore.com,206,227,9
+2020-11-25,desktop,(direct),581,591,11
+2020-11-25,mobile,(direct),379,394,6
+2020-11-25,desktop,<Other>,634,654,19
+2020-11-25,mobile,<Other>,484,492,6
+2020-11-25,mobile,google,589,604,13
+2020-11-25,mobile,shop.googlemerchandisestore.com,143,163,8
+2020-11-25,desktop,(data deleted),199,220,12
+2020-11-25,mobile,(data deleted),100,122,9
+2020-11-25,tablet,google,31,32,0
+2020-11-25,tablet,(data deleted),7,11,1
+2020-11-25,tablet,<Other>,28,30,0
+2020-11-25,tablet,(direct),14,14,0
+2020-11-25,tablet,shop.googlemerchandisestore.com,4,6,0
+2020-11-26,desktop,(data deleted),161,164,3
+2020-11-26,desktop,<Other>,639,634,7
+2020-11-26,desktop,(direct),516,511,4
+2020-11-26,mobile,<Other>,418,417,9
+2020-11-26,desktop,shop.googlemerchandisestore.com,185,195,2
+2020-11-26,mobile,google,576,563,10
+2020-11-26,desktop,google,808,801,14
+2020-11-26,tablet,(data deleted),10,10,0
+2020-11-26,mobile,(direct),433,433,4
+2020-11-26,tablet,<Other>,31,29,0
+2020-11-26,mobile,shop.googlemerchandisestore.com,123,122,2
+2020-11-26,tablet,(direct),16,17,1
+2020-11-26,mobile,(data deleted),107,117,1
+2020-11-26,tablet,google,33,34,0
+2020-11-26,tablet,shop.googlemerchandisestore.com,5,5,0
+2020-11-27,mobile,<Other>,438,435,3
+2020-11-27,tablet,google,35,36,1
+2020-11-27,desktop,<Other>,653,639,15
+2020-11-27,desktop,shop.googlemerchandisestore.com,182,182,9
+2020-11-27,desktop,(direct),510,504,9
+2020-11-27,desktop,google,775,758,9
+2020-11-27,mobile,(direct),378,368,11
+2020-11-27,mobile,google,553,533,10
+2020-11-27,mobile,shop.googlemerchandisestore.com,125,129,6
+2020-11-27,desktop,(data deleted),149,149,14
+2020-11-27,mobile,(data deleted),75,78,5
+2020-11-27,tablet,(direct),22,23,0
+2020-11-27,tablet,<Other>,22,22,1
+2020-11-27,tablet,(data deleted),5,5,1
+2020-11-27,tablet,shop.googlemerchandisestore.com,6,6,3
+2020-11-28,desktop,(data deleted),94,93,4
+2020-11-28,mobile,<Other>,373,366,12
+2020-11-28,desktop,google,660,642,12
+2020-11-28,mobile,google,488,479,10
+2020-11-28,desktop,(direct),497,490,9
+2020-11-28,desktop,<Other>,562,550,9
+2020-11-28,mobile,shop.googlemerchandisestore.com,101,103,3
+2020-11-28,mobile,(direct),303,300,9
+2020-11-28,mobile,(data deleted),73,74,4
+2020-11-28,tablet,shop.googlemerchandisestore.com,11,11,1
+2020-11-28,tablet,<Other>,16,16,1
+2020-11-28,desktop,shop.googlemerchandisestore.com,128,130,4
+2020-11-28,tablet,(direct),13,13,0
+2020-11-28,tablet,google,26,26,0
+2020-11-28,tablet,(data deleted),1,1,0
+2020-11-29,mobile,(direct),307,298,2
+2020-11-29,mobile,<Other>,360,364,5
+2020-11-29,desktop,(direct),424,413,4
+2020-11-29,mobile,google,469,459,9
+2020-11-29,desktop,google,625,618,7
+2020-11-29,desktop,<Other>,517,521,9
+2020-11-29,mobile,(data deleted),79,79,4
+2020-11-29,desktop,shop.googlemerchandisestore.com,163,157,4
+2020-11-29,tablet,<Other>,14,14,0
+2020-11-29,tablet,(direct),16,15,1
+2020-11-29,tablet,google,21,21,0
+2020-11-29,desktop,(data deleted),115,109,5
+2020-11-29,mobile,shop.googlemerchandisestore.com,86,91,0
+2020-11-29,tablet,shop.googlemerchandisestore.com,7,7,1
+2020-11-29,tablet,(data deleted),4,6,0
+2020-11-30,desktop,<Other>,745,734,13
+2020-11-30,mobile,shop.googlemerchandisestore.com,135,137,10
+2020-11-30,desktop,google,948,926,25
+2020-11-30,mobile,(direct),387,382,11
+2020-11-30,mobile,<Other>,457,457,22
+2020-11-30,mobile,google,635,619,18
+2020-11-30,tablet,(direct),20,20,0
+2020-11-30,desktop,(direct),570,557,15
+2020-11-30,desktop,shop.googlemerchandisestore.com,215,216,11
+2020-11-30,desktop,(data deleted),173,178,10
+2020-11-30,tablet,google,53,53,0
+2020-11-30,mobile,(data deleted),145,139,5
+2020-11-30,tablet,<Other>,22,22,1
+2020-11-30,tablet,(data deleted),5,5,0
+2020-11-30,tablet,shop.googlemerchandisestore.com,6,6,0
+2020-12-01,mobile,(direct),443,435,14
+2020-12-01,mobile,google,709,692,9
+2020-12-01,desktop,(data deleted),181,186,11
+2020-12-01,desktop,google,992,971,16
+2020-12-01,mobile,shop.googlemerchandisestore.com,148,145,6
+2020-12-01,mobile,<Other>,515,506,10
+2020-12-01,mobile,(data deleted),139,138,4
+2020-12-01,desktop,<Other>,755,739,22
+2020-12-01,desktop,(direct),647,643,10
+2020-12-01,desktop,shop.googlemerchandisestore.com,280,282,4
+2020-12-01,tablet,(direct),23,23,1
+2020-12-01,tablet,google,34,32,0
+2020-12-01,tablet,<Other>,27,27,0
+2020-12-01,tablet,(data deleted),8,8,0
+2020-12-01,tablet,shop.googlemerchandisestore.com,11,11,0
+2020-12-02,desktop,google,964,942,17
+2020-12-02,desktop,(direct),649,626,11
+2020-12-02,mobile,google,697,665,9
+2020-12-02,desktop,<Other>,723,705,10
+2020-12-02,mobile,shop.googlemerchandisestore.com,172,168,3
+2020-12-02,mobile,<Other>,470,464,8
+2020-12-02,desktop,shop.googlemerchandisestore.com,246,247,5
+2020-12-02,mobile,(direct),403,391,3
+2020-12-02,mobile,(data deleted),118,117,9
+2020-12-02,desktop,(data deleted),201,192,3
+2020-12-02,tablet,shop.googlemerchandisestore.com,10,10,2
+2020-12-02,tablet,(direct),25,25,0
+2020-12-02,tablet,google,43,43,0
+2020-12-02,tablet,<Other>,29,29,0
+2020-12-02,tablet,(data deleted),9,9,2
+2020-12-03,desktop,google,1089,1067,17
+2020-12-03,tablet,google,33,33,0
+2020-12-03,desktop,<Other>,802,779,15
+2020-12-03,mobile,(data deleted),131,125,3
+2020-12-03,desktop,(data deleted),191,186,6
+2020-12-03,mobile,google,747,725,7
+2020-12-03,mobile,(direct),436,427,5
+2020-12-03,mobile,<Other>,494,491,6
+2020-12-03,desktop,(direct),700,680,15
+2020-12-03,tablet,(data deleted),10,10,0
+2020-12-03,desktop,shop.googlemerchandisestore.com,264,259,5
+2020-12-03,mobile,shop.googlemerchandisestore.com,169,164,8
+2020-12-03,tablet,<Other>,40,36,3
+2020-12-03,tablet,(direct),25,24,0
+2020-12-03,tablet,shop.googlemerchandisestore.com,11,11,0
+2020-12-04,desktop,(data deleted),168,162,4
+2020-12-04,mobile,shop.googlemerchandisestore.com,165,164,8
+2020-12-04,mobile,<Other>,460,451,8
+2020-12-04,desktop,google,1008,976,25
+2020-12-04,tablet,google,39,40,0
+2020-12-04,desktop,(direct),636,626,9
+2020-12-04,mobile,google,645,621,17
+2020-12-04,tablet,(direct),28,26,1
+2020-12-04,desktop,<Other>,682,681,6
+2020-12-04,mobile,(direct),433,424,4
+2020-12-04,mobile,(data deleted),156,152,4
+2020-12-04,desktop,shop.googlemerchandisestore.com,222,216,9
+2020-12-04,tablet,shop.googlemerchandisestore.com,6,7,0
+2020-12-04,tablet,<Other>,24,24,1
+2020-12-04,tablet,(data deleted),6,5,0
+2020-12-05,tablet,(direct),16,15,0
+2020-12-05,mobile,(direct),334,321,8
+2020-12-05,mobile,google,537,526,10
+2020-12-05,desktop,google,693,676,14
+2020-12-05,desktop,<Other>,532,524,6
+2020-12-05,desktop,(direct),489,480,14
+2020-12-05,mobile,<Other>,360,357,9
+2020-12-05,tablet,google,25,24,2
+2020-12-05,desktop,shop.googlemerchandisestore.com,160,160,6
+2020-12-05,mobile,(data deleted),78,73,5
+2020-12-05,mobile,shop.googlemerchandisestore.com,117,116,4
+2020-12-05,desktop,(data deleted),102,106,9
+2020-12-05,tablet,shop.googlemerchandisestore.com,3,3,0
+2020-12-05,tablet,<Other>,16,16,0
+2020-12-05,tablet,(data deleted),2,2,0
+2020-12-06,mobile,(data deleted),86,86,2
+2020-12-06,desktop,(direct),415,403,5
+2020-12-06,desktop,<Other>,535,526,7
+2020-12-06,desktop,google,644,639,6
+2020-12-06,mobile,(direct),322,316,3
+2020-12-06,mobile,<Other>,359,350,3
+2020-12-06,mobile,shop.googlemerchandisestore.com,108,106,3
+2020-12-06,desktop,shop.googlemerchandisestore.com,149,148,2
+2020-12-06,tablet,(direct),17,16,0
+2020-12-06,tablet,google,29,27,0
+2020-12-06,mobile,google,484,476,5
+2020-12-06,desktop,(data deleted),117,108,4
+2020-12-06,tablet,<Other>,30,27,1
+2020-12-06,tablet,(data deleted),3,3,1
+2020-12-06,tablet,shop.googlemerchandisestore.com,5,5,0
+2020-12-07,mobile,(data deleted),153,148,4
+2020-12-07,desktop,<Other>,851,841,13
+2020-12-07,mobile,google,755,734,13
+2020-12-07,mobile,(direct),500,479,6
+2020-12-07,desktop,google,1081,1046,10
+2020-12-07,mobile,<Other>,569,565,16
+2020-12-07,desktop,(direct),745,725,17
+2020-12-07,desktop,(data deleted),229,219,18
+2020-12-07,mobile,shop.googlemerchandisestore.com,173,170,4
+2020-12-07,desktop,shop.googlemerchandisestore.com,254,255,8
+2020-12-07,tablet,<Other>,26,26,0
+2020-12-07,tablet,google,38,36,1
+2020-12-07,tablet,shop.googlemerchandisestore.com,15,15,0
+2020-12-07,tablet,(data deleted),2,4,0
+2020-12-07,tablet,(direct),19,19,0
+2020-12-08,desktop,google,1599,1542,15
+2020-12-08,mobile,google,1046,1024,10
+2020-12-08,desktop,<Other>,1199,1175,31
+2020-12-08,desktop,(direct),1023,1011,19
+2020-12-08,mobile,<Other>,807,794,4
+2020-12-08,tablet,google,53,50,1
+2020-12-08,mobile,shop.googlemerchandisestore.com,224,220,9
+2020-12-08,mobile,(direct),673,654,12
+2020-12-08,tablet,(direct),45,44,0
+2020-12-08,desktop,(data deleted),249,245,7
+2020-12-08,mobile,(data deleted),183,178,6
+2020-12-08,desktop,shop.googlemerchandisestore.com,348,339,6
+2020-12-08,tablet,<Other>,50,50,2
+2020-12-08,tablet,shop.googlemerchandisestore.com,14,14,0
+2020-12-08,tablet,(data deleted),13,13,0
+2020-12-09,desktop,(direct),812,791,21
+2020-12-09,desktop,google,1256,1236,27
+2020-12-09,desktop,<Other>,1002,985,25
+2020-12-09,mobile,<Other>,641,635,9
+2020-12-09,mobile,google,902,881,16
+2020-12-09,tablet,google,38,37,0
+2020-12-09,mobile,shop.googlemerchandisestore.com,210,211,6
+2020-12-09,desktop,(data deleted),223,218,17
+2020-12-09,mobile,(direct),552,544,10
+2020-12-09,tablet,<Other>,37,35,0
+2020-12-09,desktop,shop.googlemerchandisestore.com,313,315,9
+2020-12-09,mobile,(data deleted),143,133,6
+2020-12-09,tablet,(direct),40,38,1
+2020-12-09,tablet,shop.googlemerchandisestore.com,25,22,3
+2020-12-09,tablet,(data deleted),17,15,0
+2020-12-10,desktop,(direct),794,796,18
+2020-12-10,tablet,<Other>,26,26,1
+2020-12-10,mobile,(direct),509,506,9
+2020-12-10,mobile,google,779,784,15
+2020-12-10,desktop,<Other>,954,953,17
+2020-12-10,mobile,<Other>,621,625,13
+2020-12-10,desktop,google,1159,1172,26
+2020-12-10,mobile,shop.googlemerchandisestore.com,180,185,8
+2020-12-10,desktop,shop.googlemerchandisestore.com,268,282,8
+2020-12-10,tablet,google,45,47,1
+2020-12-10,desktop,(data deleted),221,237,14
+2020-12-10,mobile,(data deleted),149,164,13
+2020-12-10,tablet,(direct),32,29,0
+2020-12-10,tablet,shop.googlemerchandisestore.com,12,12,0
+2020-12-10,tablet,(data deleted),10,12,0
+2020-12-11,mobile,<Other>,615,617,10
+2020-12-11,desktop,(data deleted),213,224,11
+2020-12-11,desktop,google,1122,1105,27
+2020-12-11,desktop,<Other>,869,862,26
+2020-12-11,mobile,(direct),457,451,18
+2020-12-11,desktop,(direct),732,731,19
+2020-12-11,desktop,shop.googlemerchandisestore.com,264,263,9
+2020-12-11,mobile,google,783,779,20
+2020-12-11,mobile,(data deleted),138,139,7
+2020-12-11,tablet,<Other>,35,35,0
+2020-12-11,mobile,shop.googlemerchandisestore.com,164,167,12
+2020-12-11,tablet,(direct),24,21,1
+2020-12-11,tablet,google,43,42,0
+2020-12-11,tablet,shop.googlemerchandisestore.com,9,9,0
+2020-12-11,tablet,(data deleted),8,9,0
+2020-12-12,mobile,<Other>,450,447,8
+2020-12-12,mobile,google,589,590,8
+2020-12-12,mobile,shop.googlemerchandisestore.com,110,113,4
+2020-12-12,mobile,(direct),351,341,8
+2020-12-12,desktop,(data deleted),127,126,15
+2020-12-12,desktop,(direct),553,547,18
+2020-12-12,desktop,<Other>,726,711,15
+2020-12-12,desktop,google,829,823,19
+2020-12-12,tablet,google,44,44,1
+2020-12-12,desktop,shop.googlemerchandisestore.com,195,190,4
+2020-12-12,mobile,(data deleted),69,71,6
+2020-12-12,tablet,<Other>,18,18,0
+2020-12-12,tablet,shop.googlemerchandisestore.com,9,9,0
+2020-12-12,tablet,(direct),15,15,0
+2020-12-12,tablet,(data deleted),3,3,0
+2020-12-13,desktop,(direct),507,502,6
+2020-12-13,desktop,shop.googlemerchandisestore.com,145,143,7
+2020-12-13,mobile,(direct),340,335,5
+2020-12-13,mobile,google,571,560,9
+2020-12-13,desktop,<Other>,565,561,12
+2020-12-13,desktop,google,794,778,11
+2020-12-13,mobile,<Other>,418,414,7
+2020-12-13,mobile,(data deleted),60,64,7
+2020-12-13,tablet,(data deleted),2,2,0
+2020-12-13,mobile,shop.googlemerchandisestore.com,88,88,3
+2020-12-13,tablet,google,30,29,0
+2020-12-13,tablet,shop.googlemerchandisestore.com,3,4,0
+2020-12-13,desktop,(data deleted),104,103,7
+2020-12-13,tablet,<Other>,22,22,0
+2020-12-13,tablet,(direct),17,18,0
+2020-12-14,desktop,(direct),715,698,8
+2020-12-14,mobile,(data deleted),119,121,10
+2020-12-14,desktop,google,1085,1062,11
+2020-12-14,desktop,(data deleted),155,157,4
+2020-12-14,mobile,shop.googlemerchandisestore.com,174,168,7
+2020-12-14,mobile,google,715,708,16
+2020-12-14,desktop,<Other>,730,715,9
+2020-12-14,mobile,(direct),445,435,14
+2020-12-14,mobile,<Other>,555,551,13
+2020-12-14,tablet,(direct),35,34,0
+2020-12-14,tablet,shop.googlemerchandisestore.com,15,14,0
+2020-12-14,tablet,(data deleted),6,5,0
+2020-12-14,desktop,shop.googlemerchandisestore.com,227,225,6
+2020-12-14,tablet,google,43,43,1
+2020-12-14,tablet,<Other>,32,32,0
+2020-12-15,desktop,<Other>,892,877,20
+2020-12-15,desktop,google,1160,1137,24
+2020-12-15,desktop,(direct),781,767,22
+2020-12-15,mobile,google,790,769,18
+2020-12-15,desktop,(data deleted),205,191,6
+2020-12-15,desktop,shop.googlemerchandisestore.com,284,272,14
+2020-12-15,mobile,<Other>,609,605,6
+2020-12-15,tablet,shop.googlemerchandisestore.com,10,10,0
+2020-12-15,mobile,(direct),485,470,14
+2020-12-15,mobile,(data deleted),153,149,9
+2020-12-15,mobile,shop.googlemerchandisestore.com,198,197,5
+2020-12-15,tablet,(data deleted),9,9,0
+2020-12-15,tablet,google,44,44,0
+2020-12-15,tablet,<Other>,27,27,0
+2020-12-15,tablet,(direct),33,32,1
+2020-12-16,mobile,<Other>,562,557,8
+2020-12-16,mobile,google,796,763,14
+2020-12-16,mobile,(data deleted),126,119,9
+2020-12-16,desktop,google,1115,1084,23
+2020-12-16,desktop,<Other>,843,831,19
+2020-12-16,desktop,shop.googlemerchandisestore.com,296,289,10
+2020-12-16,mobile,shop.googlemerchandisestore.com,169,163,9
+2020-12-16,mobile,(direct),501,484,14
+2020-12-16,desktop,(direct),738,722,20
+2020-12-16,tablet,shop.googlemerchandisestore.com,9,8,1
+2020-12-16,desktop,(data deleted),224,219,15
+2020-12-16,tablet,<Other>,42,41,0
+2020-12-16,tablet,google,36,36,0
+2020-12-16,tablet,(data deleted),4,4,1
+2020-12-16,tablet,(direct),26,26,0
+2020-12-17,mobile,(direct),486,475,14
+2020-12-17,mobile,<Other>,568,553,9
+2020-12-17,desktop,(direct),718,707,10
+2020-12-17,desktop,<Other>,835,815,15
+2020-12-17,mobile,google,776,758,13
+2020-12-17,desktop,shop.googlemerchandisestore.com,231,230,5
+2020-12-17,tablet,shop.googlemerchandisestore.com,2,2,0
+2020-12-17,desktop,google,1096,1072,23
+2020-12-17,mobile,(data deleted),130,137,10
+2020-12-17,mobile,shop.googlemerchandisestore.com,160,159,7
+2020-12-17,desktop,(data deleted),187,187,19
+2020-12-17,tablet,<Other>,29,29,0
+2020-12-17,tablet,google,28,29,0
+2020-12-17,tablet,(direct),30,30,1
+2020-12-17,tablet,(data deleted),7,7,0
+2020-12-18,mobile,(direct),451,444,8
+2020-12-18,tablet,(direct),29,28,1
+2020-12-18,desktop,(data deleted),126,127,9
+2020-12-18,mobile,google,694,676,9
+2020-12-18,mobile,<Other>,526,517,9
+2020-12-18,desktop,shop.googlemerchandisestore.com,217,220,5
+2020-12-18,desktop,(direct),669,664,26
+2020-12-18,desktop,<Other>,738,736,6
+2020-12-18,desktop,google,988,971,21
+2020-12-18,mobile,(data deleted),114,110,4
+2020-12-18,mobile,shop.googlemerchandisestore.com,155,155,9
+2020-12-18,tablet,google,31,31,0
+2020-12-18,tablet,shop.googlemerchandisestore.com,8,8,0
+2020-12-18,tablet,<Other>,38,37,0
+2020-12-18,tablet,(data deleted),2,2,0
+2020-12-19,mobile,(direct),363,357,6
+2020-12-19,desktop,shop.googlemerchandisestore.com,126,124,1
+2020-12-19,mobile,google,515,506,5
+2020-12-19,desktop,google,735,722,17
+2020-12-19,desktop,(direct),503,496,7
+2020-12-19,mobile,shop.googlemerchandisestore.com,116,112,1
+2020-12-19,desktop,<Other>,552,548,2
+2020-12-19,desktop,(data deleted),97,101,3
+2020-12-19,mobile,<Other>,406,396,5
+2020-12-19,tablet,shop.googlemerchandisestore.com,8,7,0
+2020-12-19,mobile,(data deleted),74,73,5
+2020-12-19,tablet,<Other>,20,20,0
+2020-12-19,tablet,google,21,21,0
+2020-12-19,tablet,(data deleted),2,2,0
+2020-12-19,tablet,(direct),20,20,0
+2020-12-20,mobile,<Other>,355,357,2
+2020-12-20,desktop,<Other>,519,519,3
+2020-12-20,desktop,google,717,708,6
+2020-12-20,mobile,(direct),303,298,1
+2020-12-20,mobile,google,462,454,3
+2020-12-20,desktop,(direct),436,426,1
+2020-12-20,desktop,shop.googlemerchandisestore.com,165,161,2
+2020-12-20,mobile,shop.googlemerchandisestore.com,70,71,0
+2020-12-20,tablet,shop.googlemerchandisestore.com,4,4,0
+2020-12-20,mobile,(data deleted),64,66,2
+2020-12-20,tablet,google,21,21,0
+2020-12-20,desktop,(data deleted),92,86,0
+2020-12-20,tablet,<Other>,18,18,0
+2020-12-20,tablet,(direct),17,16,0
+2020-12-20,tablet,(data deleted),4,4,0
+2020-12-21,desktop,(data deleted),140,138,2
+2020-12-21,desktop,google,827,816,6
+2020-12-21,mobile,<Other>,441,436,6
+2020-12-21,desktop,shop.googlemerchandisestore.com,190,196,0
+2020-12-21,desktop,(direct),497,495,12
+2020-12-21,desktop,<Other>,634,626,9
+2020-12-21,mobile,(direct),381,375,8
+2020-12-21,mobile,google,537,539,4
+2020-12-21,mobile,shop.googlemerchandisestore.com,116,117,1
+2020-12-21,tablet,(data deleted),3,3,0
+2020-12-21,mobile,(data deleted),90,97,1
+2020-12-21,tablet,<Other>,30,30,1
+2020-12-21,tablet,google,38,37,2
+2020-12-21,tablet,(direct),21,22,1
+2020-12-21,tablet,shop.googlemerchandisestore.com,7,7,0
+2020-12-22,tablet,<Other>,26,25,0
+2020-12-22,desktop,google,779,768,8
+2020-12-22,desktop,(data deleted),135,139,5
+2020-12-22,mobile,google,549,535,4
+2020-12-22,desktop,(direct),473,470,9
+2020-12-22,desktop,shop.googlemerchandisestore.com,174,172,4
+2020-12-22,mobile,<Other>,429,422,6
+2020-12-22,mobile,(direct),350,336,5
+2020-12-22,desktop,<Other>,595,584,10
+2020-12-22,mobile,shop.googlemerchandisestore.com,126,129,5
+2020-12-22,tablet,shop.googlemerchandisestore.com,12,12,0
+2020-12-22,tablet,google,26,26,0
+2020-12-22,mobile,(data deleted),100,102,3
+2020-12-22,tablet,(direct),16,15,0
+2020-12-22,tablet,(data deleted),3,5,1
+2020-12-23,mobile,google,520,508,11
+2020-12-23,mobile,<Other>,371,369,5
+2020-12-23,mobile,(data deleted),84,88,7
+2020-12-23,desktop,(direct),441,434,4
+2020-12-23,mobile,(direct),320,314,7
+2020-12-23,desktop,<Other>,571,562,9
+2020-12-23,desktop,shop.googlemerchandisestore.com,142,143,2
+2020-12-23,mobile,shop.googlemerchandisestore.com,111,113,4
+2020-12-23,desktop,google,674,664,11
+2020-12-23,desktop,(data deleted),107,106,7
+2020-12-23,tablet,<Other>,19,19,0
+2020-12-23,tablet,google,24,24,0
+2020-12-23,tablet,shop.googlemerchandisestore.com,5,5,0
+2020-12-23,tablet,(direct),19,17,0
+2020-12-23,tablet,(data deleted),1,1,0
+2020-12-24,mobile,<Other>,326,325,4
+2020-12-24,desktop,google,572,565,3
+2020-12-24,mobile,google,429,427,1
+2020-12-24,mobile,(direct),252,250,2
+2020-12-24,mobile,shop.googlemerchandisestore.com,79,79,1
+2020-12-24,desktop,shop.googlemerchandisestore.com,121,120,1
+2020-12-24,tablet,<Other>,20,20,0
+2020-12-24,desktop,<Other>,460,460,1
+2020-12-24,desktop,(direct),360,363,1
+2020-12-24,tablet,(data deleted),8,7,1
+2020-12-24,desktop,(data deleted),62,62,5
+2020-12-24,tablet,google,21,21,1
+2020-12-24,mobile,(data deleted),49,49,2
+2020-12-24,tablet,(direct),14,14,0
+2020-12-24,tablet,shop.googlemerchandisestore.com,1,1,0
+2020-12-25,desktop,(data deleted),53,56,1
+2020-12-25,mobile,(data deleted),38,38,2
+2020-12-25,mobile,google,401,401,2
+2020-12-25,mobile,shop.googlemerchandisestore.com,71,74,2
+2020-12-25,desktop,(direct),338,333,1
+2020-12-25,desktop,<Other>,449,445,2
+2020-12-25,mobile,<Other>,278,279,1
+2020-12-25,tablet,<Other>,16,16,0
+2020-12-25,tablet,google,19,19,0
+2020-12-25,desktop,google,591,585,3
+2020-12-25,mobile,(direct),236,233,3
+2020-12-25,desktop,shop.googlemerchandisestore.com,111,110,0
+2020-12-25,tablet,(direct),16,16,0
+2020-12-25,tablet,(data deleted),3,3,0
+2020-12-25,tablet,shop.googlemerchandisestore.com,4,4,0
+2020-12-26,desktop,google,600,595,2
+2020-12-26,mobile,google,389,384,4
+2020-12-26,mobile,<Other>,302,301,1
+2020-12-26,desktop,(direct),366,359,1
+2020-12-26,mobile,(direct),265,263,2
+2020-12-26,desktop,shop.googlemerchandisestore.com,93,95,0
+2020-12-26,tablet,(direct),15,15,0
+2020-12-26,tablet,(data deleted),1,2,0
+2020-12-26,mobile,(data deleted),31,32,2
+2020-12-26,mobile,shop.googlemerchandisestore.com,70,69,3
+2020-12-26,desktop,<Other>,416,412,2
+2020-12-26,tablet,shop.googlemerchandisestore.com,4,4,0
+2020-12-26,desktop,(data deleted),64,64,0
+2020-12-26,tablet,<Other>,17,17,0
+2020-12-26,tablet,google,18,18,0
+2020-12-27,desktop,(direct),364,360,2
+2020-12-27,desktop,<Other>,407,406,2
+2020-12-27,mobile,(direct),230,227,1
+2020-12-27,desktop,shop.googlemerchandisestore.com,112,115,2
+2020-12-27,mobile,(data deleted),46,46,1
+2020-12-27,mobile,<Other>,301,299,2
+2020-12-27,desktop,google,592,591,2
+2020-12-27,mobile,google,412,406,3
+2020-12-27,tablet,<Other>,20,20,0
+2020-12-27,mobile,shop.googlemerchandisestore.com,63,65,1
+2020-12-27,tablet,(direct),13,13,1
+2020-12-27,desktop,(data deleted),60,61,3
+2020-12-27,tablet,shop.googlemerchandisestore.com,2,2,0
+2020-12-27,tablet,google,22,22,0
+2020-12-27,tablet,(data deleted),2,2,0
+2020-12-28,desktop,(direct),475,462,9
+2020-12-28,mobile,<Other>,364,356,1
+2020-12-28,desktop,<Other>,556,552,3
+2020-12-28,mobile,google,476,465,5
+2020-12-28,desktop,google,694,686,8
+2020-12-28,mobile,(direct),294,290,1
+2020-12-28,desktop,shop.googlemerchandisestore.com,141,140,0
+2020-12-28,tablet,google,35,35,0
+2020-12-28,desktop,(data deleted),84,86,3
+2020-12-28,tablet,<Other>,18,18,0
+2020-12-28,mobile,shop.googlemerchandisestore.com,94,91,2
+2020-12-28,mobile,(data deleted),73,70,3
+2020-12-28,tablet,shop.googlemerchandisestore.com,9,9,0
+2020-12-28,tablet,(direct),13,13,1
+2020-12-28,tablet,(data deleted),3,3,0
+2020-12-29,mobile,google,500,489,3
+2020-12-29,mobile,<Other>,374,371,2
+2020-12-29,desktop,google,714,708,1
+2020-12-29,desktop,(direct),472,466,7
+2020-12-29,desktop,<Other>,542,536,3
+2020-12-29,mobile,(direct),331,324,1
+2020-12-29,mobile,shop.googlemerchandisestore.com,83,85,1
+2020-12-29,desktop,shop.googlemerchandisestore.com,132,133,3
+2020-12-29,mobile,(data deleted),69,74,1
+2020-12-29,tablet,google,36,32,1
+2020-12-29,desktop,(data deleted),97,94,1
+2020-12-29,tablet,(direct),15,16,0
+2020-12-29,tablet,shop.googlemerchandisestore.com,13,13,0
+2020-12-29,tablet,(data deleted),1,1,0
+2020-12-29,tablet,<Other>,22,21,0
+2020-12-30,mobile,google,464,455,17
+2020-12-30,tablet,(data deleted),5,6,0
+2020-12-30,desktop,google,656,656,2
+2020-12-30,desktop,(direct),437,425,1
+2020-12-30,desktop,(data deleted),77,77,4
+2020-12-30,desktop,shop.googlemerchandisestore.com,154,155,3
+2020-12-30,desktop,<Other>,536,532,1
+2020-12-30,mobile,<Other>,330,332,1
+2020-12-30,mobile,(direct),301,294,2
+2020-12-30,mobile,shop.googlemerchandisestore.com,100,99,3
+2020-12-30,tablet,<Other>,25,25,0
+2020-12-30,mobile,(data deleted),51,53,2
+2020-12-30,tablet,google,34,34,1
+2020-12-30,tablet,(direct),13,13,0
+2020-12-31,mobile,(direct),246,245,1
+2020-12-31,desktop,(direct),348,343,2
+2020-12-31,mobile,google,382,382,2
+2020-12-31,mobile,(data deleted),54,51,0
+2020-12-31,desktop,shop.googlemerchandisestore.com,108,111,2
+2020-12-31,desktop,<Other>,416,416,6
+2020-12-31,desktop,google,565,563,4
+2020-12-31,mobile,<Other>,271,269,3
+2020-12-31,desktop,(data deleted),57,63,3
+2020-12-31,tablet,(direct),19,18,0
+2020-12-31,mobile,shop.googlemerchandisestore.com,60,63,1
+2020-12-31,tablet,<Other>,19,19,0
+2020-12-31,tablet,shop.googlemerchandisestore.com,7,7,0
+2020-12-31,tablet,google,33,32,0
+2020-12-31,tablet,(data deleted),3,3,1
+2021-01-01,mobile,(direct),219,218,4
+2021-01-01,desktop,google,511,510,2
+2021-01-01,desktop,(direct),332,333,1
+2021-01-01,mobile,google,329,323,1
+2021-01-01,desktop,<Other>,377,374,0
+2021-01-01,desktop,shop.googlemerchandisestore.com,75,77,0
+2021-01-01,mobile,<Other>,253,252,1
+2021-01-01,mobile,(data deleted),36,35,1
+2021-01-01,desktop,(data deleted),52,50,3
+2021-01-01,tablet,<Other>,24,24,0
+2021-01-01,mobile,shop.googlemerchandisestore.com,54,56,0
+2021-01-01,tablet,google,9,9,1
+2021-01-01,tablet,shop.googlemerchandisestore.com,5,5,0
+2021-01-01,tablet,(direct),13,13,0
+2021-01-02,desktop,shop.googlemerchandisestore.com,92,94,0
+2021-01-02,desktop,google,633,624,3
+2021-01-02,mobile,shop.googlemerchandisestore.com,54,55,1
+2021-01-02,desktop,<Other>,463,463,1
+2021-01-02,mobile,<Other>,301,301,3
+2021-01-02,mobile,(direct),229,230,1
+2021-01-02,mobile,google,377,373,2
+2021-01-02,desktop,(data deleted),67,65,1
+2021-01-02,tablet,(direct),11,11,0
+2021-01-02,tablet,google,33,32,1
+2021-01-02,desktop,(direct),393,391,1
+2021-01-02,mobile,(data deleted),32,33,0
+2021-01-02,tablet,<Other>,17,18,0
+2021-01-02,tablet,shop.googlemerchandisestore.com,3,3,0
+2021-01-03,desktop,(direct),383,379,1
+2021-01-03,mobile,(direct),239,240,1
+2021-01-03,mobile,google,394,391,1
+2021-01-03,desktop,<Other>,501,492,2
+2021-01-03,desktop,google,585,584,1
+2021-01-03,mobile,(data deleted),35,38,1
+2021-01-03,mobile,shop.googlemerchandisestore.com,78,77,1
+2021-01-03,desktop,shop.googlemerchandisestore.com,95,97,1
+2021-01-03,mobile,<Other>,335,335,3
+2021-01-03,desktop,(data deleted),61,66,2
+2021-01-03,tablet,shop.googlemerchandisestore.com,1,1,0
+2021-01-03,tablet,<Other>,13,13,0
+2021-01-03,tablet,google,21,21,0
+2021-01-03,tablet,(direct),12,12,0
+2021-01-04,desktop,google,721,726,3
+2021-01-04,mobile,shop.googlemerchandisestore.com,89,92,0
+2021-01-04,desktop,(direct),476,475,2
+2021-01-04,mobile,(direct),285,280,1
+2021-01-04,mobile,google,485,475,3
+2021-01-04,mobile,<Other>,380,379,1
+2021-01-04,desktop,<Other>,525,520,1
+2021-01-04,desktop,(data deleted),90,92,2
+2021-01-04,mobile,(data deleted),53,54,1
+2021-01-04,tablet,<Other>,25,26,0
+2021-01-04,desktop,shop.googlemerchandisestore.com,137,137,1
+2021-01-04,tablet,(direct),23,23,1
+2021-01-04,tablet,google,24,25,0
+2021-01-04,tablet,shop.googlemerchandisestore.com,3,3,0
+2021-01-04,tablet,(data deleted),3,3,0
+2021-01-05,mobile,<Other>,476,476,0
+2021-01-05,desktop,<Other>,725,717,2
+2021-01-05,mobile,google,705,701,6
+2021-01-05,desktop,(direct),571,570,3
+2021-01-05,desktop,google,931,923,10
+2021-01-05,mobile,(direct),431,430,1
+2021-01-05,desktop,shop.googlemerchandisestore.com,162,162,1
+2021-01-05,mobile,shop.googlemerchandisestore.com,138,143,1
+2021-01-05,tablet,<Other>,33,34,0
+2021-01-05,tablet,google,37,37,0
+2021-01-05,mobile,(data deleted),66,70,3
+2021-01-05,desktop,(data deleted),107,109,2
+2021-01-05,tablet,(direct),20,21,0
+2021-01-05,tablet,(data deleted),3,4,0
+2021-01-05,tablet,shop.googlemerchandisestore.com,6,6,0
+2021-01-06,tablet,<Other>,36,35,0
+2021-01-06,desktop,(direct),816,809,7
+2021-01-06,desktop,google,1280,1262,4
+2021-01-06,mobile,google,873,860,2
+2021-01-06,desktop,<Other>,991,986,5
+2021-01-06,mobile,<Other>,633,628,5
+2021-01-06,mobile,shop.googlemerchandisestore.com,164,165,0
+2021-01-06,desktop,shop.googlemerchandisestore.com,253,256,2
+2021-01-06,mobile,(direct),553,543,3
+2021-01-06,desktop,(data deleted),169,171,1
+2021-01-06,mobile,(data deleted),96,97,1
+2021-01-06,tablet,(direct),40,40,0
+2021-01-06,tablet,(data deleted),6,6,1
+2021-01-06,tablet,google,38,38,0
+2021-01-06,tablet,shop.googlemerchandisestore.com,4,4,0
+2021-01-07,mobile,(direct),416,410,2
+2021-01-07,desktop,<Other>,681,677,2
+2021-01-07,desktop,google,1033,1013,7
+2021-01-07,mobile,google,672,661,4
+2021-01-07,mobile,(data deleted),88,91,1
+2021-01-07,mobile,shop.googlemerchandisestore.com,135,135,0
+2021-01-07,mobile,<Other>,510,503,1
+2021-01-07,desktop,(direct),611,605,6
+2021-01-07,desktop,(data deleted),150,149,3
+2021-01-07,desktop,shop.googlemerchandisestore.com,189,189,0
+2021-01-07,tablet,(direct),34,32,0
+2021-01-07,tablet,(data deleted),5,6,0
+2021-01-07,tablet,<Other>,32,32,0
+2021-01-07,tablet,google,41,39,0
+2021-01-07,tablet,shop.googlemerchandisestore.com,11,10,0
+2021-01-08,mobile,(direct),414,405,4
+2021-01-08,desktop,google,865,856,6
+2021-01-08,mobile,google,616,600,0
+2021-01-08,desktop,(direct),564,548,9
+2021-01-08,mobile,<Other>,446,437,4
+2021-01-08,desktop,<Other>,689,669,5
+2021-01-08,mobile,(data deleted),84,83,2
+2021-01-08,desktop,(data deleted),129,131,1
+2021-01-08,mobile,shop.googlemerchandisestore.com,121,120,1
+2021-01-08,desktop,shop.googlemerchandisestore.com,178,181,1
+2021-01-08,tablet,shop.googlemerchandisestore.com,12,12,0
+2021-01-08,tablet,google,39,37,0
+2021-01-08,tablet,<Other>,26,25,1
+2021-01-08,tablet,(direct),28,25,0
+2021-01-08,tablet,(data deleted),8,8,0
+2021-01-09,mobile,<Other>,364,359,5
+2021-01-09,mobile,(direct),313,303,1
+2021-01-09,desktop,shop.googlemerchandisestore.com,139,140,1
+2021-01-09,mobile,shop.googlemerchandisestore.com,100,102,1
+2021-01-09,mobile,(data deleted),61,57,2
+2021-01-09,desktop,google,692,686,4
+2021-01-09,mobile,google,489,482,0
+2021-01-09,desktop,<Other>,505,498,2
+2021-01-09,desktop,(direct),429,417,3
+2021-01-09,desktop,(data deleted),85,83,1
+2021-01-09,tablet,google,20,20,0
+2021-01-09,tablet,(direct),16,16,0
+2021-01-09,tablet,<Other>,24,24,0
+2021-01-09,tablet,(data deleted),2,2,0
+2021-01-09,tablet,shop.googlemerchandisestore.com,2,2,0
+2021-01-10,desktop,google,655,641,1
+2021-01-10,mobile,google,440,436,2
+2021-01-10,mobile,<Other>,358,358,2
+2021-01-10,desktop,(direct),399,388,3
+2021-01-10,desktop,(data deleted),68,70,1
+2021-01-10,desktop,shop.googlemerchandisestore.com,110,110,3
+2021-01-10,mobile,(direct),293,290,1
+2021-01-10,tablet,google,27,25,0
+2021-01-10,mobile,(data deleted),54,56,0
+2021-01-10,desktop,<Other>,447,439,1
+2021-01-10,mobile,shop.googlemerchandisestore.com,88,89,0
+2021-01-10,tablet,(direct),11,11,0
+2021-01-10,tablet,(data deleted),1,1,0
+2021-01-10,tablet,<Other>,23,22,0
+2021-01-10,tablet,shop.googlemerchandisestore.com,2,2,0
+2021-01-11,desktop,<Other>,649,651,6
+2021-01-11,mobile,shop.googlemerchandisestore.com,120,119,1
+2021-01-11,mobile,(direct),366,366,5
+2021-01-11,desktop,(direct),512,503,5
+2021-01-11,desktop,(data deleted),120,112,0
+2021-01-11,mobile,<Other>,439,441,0
+2021-01-11,desktop,google,798,774,6
+2021-01-11,tablet,google,36,37,0
+2021-01-11,mobile,google,595,588,1
+2021-01-11,desktop,shop.googlemerchandisestore.com,144,143,1
+2021-01-11,mobile,(data deleted),85,80,2
+2021-01-11,tablet,<Other>,19,20,1
+2021-01-11,tablet,(data deleted),6,6,0
+2021-01-11,tablet,(direct),20,20,0
+2021-01-11,tablet,shop.googlemerchandisestore.com,9,9,0
+2021-01-12,desktop,shop.googlemerchandisestore.com,189,189,3
+2021-01-12,mobile,shop.googlemerchandisestore.com,144,146,2
+2021-01-12,desktop,<Other>,742,731,9
+2021-01-12,desktop,(data deleted),149,152,4
+2021-01-12,desktop,(direct),623,612,6
+2021-01-12,desktop,google,959,946,5
+2021-01-12,mobile,google,688,674,8
+2021-01-12,mobile,<Other>,550,535,2
+2021-01-12,mobile,(direct),437,426,6
+2021-01-12,mobile,(data deleted),98,95,1
+2021-01-12,tablet,<Other>,33,32,0
+2021-01-12,tablet,google,30,31,1
+2021-01-12,tablet,(direct),26,27,0
+2021-01-12,tablet,(data deleted),4,5,0
+2021-01-12,tablet,shop.googlemerchandisestore.com,7,7,1
+2021-01-13,desktop,(data deleted),132,132,5
+2021-01-13,mobile,(data deleted),99,104,3
+2021-01-13,desktop,google,917,907,6
+2021-01-13,mobile,google,646,641,4
+2021-01-13,desktop,(direct),617,611,3
+2021-01-13,desktop,<Other>,726,729,6
+2021-01-13,desktop,shop.googlemerchandisestore.com,179,185,1
+2021-01-13,mobile,shop.googlemerchandisestore.com,132,137,2
+2021-01-13,mobile,<Other>,507,511,3
+2021-01-13,mobile,(direct),437,438,3
+2021-01-13,tablet,shop.googlemerchandisestore.com,8,8,0
+2021-01-13,tablet,(data deleted),8,6,0
+2021-01-13,tablet,google,29,29,0
+2021-01-13,tablet,(direct),25,24,0
+2021-01-13,tablet,<Other>,16,18,0
+2021-01-14,mobile,shop.googlemerchandisestore.com,147,148,5
+2021-01-14,desktop,(data deleted),124,122,5
+2021-01-14,desktop,(direct),599,596,8
+2021-01-14,mobile,google,596,591,10
+2021-01-14,desktop,<Other>,673,656,6
+2021-01-14,desktop,google,913,896,5
+2021-01-14,mobile,(direct),416,408,4
+2021-01-14,tablet,google,37,37,0
+2021-01-14,desktop,shop.googlemerchandisestore.com,194,193,5
+2021-01-14,mobile,(data deleted),95,93,2
+2021-01-14,mobile,<Other>,465,468,4
+2021-01-14,tablet,(data deleted),9,8,0
+2021-01-14,tablet,shop.googlemerchandisestore.com,7,8,0
+2021-01-14,tablet,<Other>,24,24,0
+2021-01-14,tablet,(direct),23,21,0
+2021-01-15,tablet,<Other>,23,22,1
+2021-01-15,mobile,(direct),347,344,5
+2021-01-15,desktop,google,796,785,5
+2021-01-15,desktop,<Other>,640,631,5
+2021-01-15,mobile,(data deleted),76,76,0
+2021-01-15,mobile,google,578,564,12
+2021-01-15,desktop,(direct),570,560,5
+2021-01-15,mobile,<Other>,424,423,2
+2021-01-15,desktop,shop.googlemerchandisestore.com,132,131,7
+2021-01-15,mobile,shop.googlemerchandisestore.com,129,128,0
+2021-01-15,tablet,google,32,32,0
+2021-01-15,desktop,(data deleted),118,121,4
+2021-01-15,tablet,shop.googlemerchandisestore.com,7,7,1
+2021-01-15,tablet,(data deleted),2,2,0
+2021-01-15,tablet,(direct),20,20,0
+2021-01-16,desktop,(direct),439,432,2
+2021-01-16,mobile,(direct),312,308,2
+2021-01-16,mobile,google,461,455,7
+2021-01-16,desktop,google,626,618,5
+2021-01-16,mobile,<Other>,381,375,3
+2021-01-16,desktop,<Other>,502,500,3
+2021-01-16,desktop,(data deleted),80,83,1
+2021-01-16,desktop,shop.googlemerchandisestore.com,119,114,1
+2021-01-16,tablet,<Other>,28,27,0
+2021-01-16,mobile,shop.googlemerchandisestore.com,92,93,1
+2021-01-16,tablet,google,31,31,0
+2021-01-16,mobile,(data deleted),50,50,2
+2021-01-16,tablet,shop.googlemerchandisestore.com,7,7,0
+2021-01-16,tablet,(direct),19,18,0
+2021-01-16,tablet,(data deleted),2,2,0
+2021-01-17,desktop,google,675,666,5
+2021-01-17,desktop,(direct),412,407,0
+2021-01-17,desktop,shop.googlemerchandisestore.com,110,109,1
+2021-01-17,mobile,shop.googlemerchandisestore.com,80,79,1
+2021-01-17,mobile,<Other>,312,307,1
+2021-01-17,mobile,google,427,426,1
+2021-01-17,tablet,google,31,31,0
+2021-01-17,desktop,<Other>,481,473,3
+2021-01-17,mobile,(direct),260,255,0
+2021-01-17,tablet,(direct),14,14,0
+2021-01-17,mobile,(data deleted),53,54,1
+2021-01-17,desktop,(data deleted),88,90,1
+2021-01-17,tablet,shop.googlemerchandisestore.com,5,4,0
+2021-01-17,tablet,<Other>,12,12,0
+2021-01-18,desktop,(data deleted),112,116,1
+2021-01-18,desktop,<Other>,554,539,2
+2021-01-18,mobile,(direct),322,320,2
+2021-01-18,desktop,google,796,775,3
+2021-01-18,mobile,<Other>,394,392,4
+2021-01-18,mobile,google,524,514,4
+2021-01-18,desktop,(direct),460,462,1
+2021-01-18,tablet,(direct),22,23,0
+2021-01-18,mobile,(data deleted),57,59,0
+2021-01-18,mobile,shop.googlemerchandisestore.com,111,110,1
+2021-01-18,desktop,shop.googlemerchandisestore.com,161,156,1
+2021-01-18,tablet,shop.googlemerchandisestore.com,3,3,0
+2021-01-18,tablet,google,23,22,0
+2021-01-18,tablet,<Other>,18,20,0
+2021-01-18,tablet,(data deleted),4,3,0
+2021-01-19,mobile,shop.googlemerchandisestore.com,163,160,3
+2021-01-19,desktop,(direct),546,534,9
+2021-01-19,mobile,(direct),378,375,5
+2021-01-19,desktop,google,889,876,7
+2021-01-19,desktop,shop.googlemerchandisestore.com,199,198,1
+2021-01-19,mobile,google,563,553,6
+2021-01-19,mobile,<Other>,466,451,3
+2021-01-19,tablet,<Other>,28,27,2
+2021-01-19,desktop,<Other>,634,624,4
+2021-01-19,desktop,(data deleted),111,114,4
+2021-01-19,mobile,(data deleted),98,96,3
+2021-01-19,tablet,(direct),22,22,0
+2021-01-19,tablet,google,34,34,1
+2021-01-19,tablet,shop.googlemerchandisestore.com,8,8,0
+2021-01-19,tablet,(data deleted),7,7,1
+2021-01-20,tablet,(direct),24,24,0
+2021-01-20,desktop,(data deleted),157,158,5
+2021-01-20,desktop,google,966,956,16
+2021-01-20,mobile,(data deleted),119,111,6
+2021-01-20,mobile,<Other>,523,516,9
+2021-01-20,desktop,<Other>,778,764,20
+2021-01-20,mobile,google,662,653,8
+2021-01-20,mobile,(direct),433,427,10
+2021-01-20,tablet,shop.googlemerchandisestore.com,4,4,0
+2021-01-20,mobile,shop.googlemerchandisestore.com,146,144,6
+2021-01-20,desktop,shop.googlemerchandisestore.com,197,204,6
+2021-01-20,desktop,(direct),649,637,9
+2021-01-20,tablet,<Other>,19,19,0
+2021-01-20,tablet,google,46,42,1
+2021-01-20,tablet,(data deleted),4,5,0
+2021-01-21,mobile,google,690,666,6
+2021-01-21,mobile,(direct),415,405,4
+2021-01-21,desktop,<Other>,751,743,8
+2021-01-21,desktop,shop.googlemerchandisestore.com,204,210,7
+2021-01-21,mobile,(data deleted),112,107,4
+2021-01-21,desktop,google,944,933,10
+2021-01-21,desktop,(direct),614,604,6
+2021-01-21,mobile,shop.googlemerchandisestore.com,149,147,1
+2021-01-21,desktop,(data deleted),148,149,4
+2021-01-21,tablet,(data deleted),4,5,0
+2021-01-21,mobile,<Other>,501,496,1
+2021-01-21,tablet,<Other>,32,33,1
+2021-01-21,tablet,google,41,38,0
+2021-01-21,tablet,shop.googlemerchandisestore.com,7,8,0
+2021-01-21,tablet,(direct),28,27,0
+2021-01-22,desktop,google,857,837,23
+2021-01-22,mobile,<Other>,434,434,11
+2021-01-22,desktop,shop.googlemerchandisestore.com,198,194,16
+2021-01-22,desktop,(data deleted),145,142,6
+2021-01-22,mobile,google,535,524,14
+2021-01-22,desktop,<Other>,643,635,8
+2021-01-22,mobile,shop.googlemerchandisestore.com,139,138,7
+2021-01-22,mobile,(data deleted),85,80,1
+2021-01-22,mobile,(direct),376,367,6
+2021-01-22,desktop,(direct),551,538,7
+2021-01-22,tablet,(direct),21,20,1
+2021-01-22,tablet,<Other>,25,25,0
+2021-01-22,tablet,shop.googlemerchandisestore.com,1,2,0
+2021-01-22,tablet,google,21,21,0
+2021-01-22,tablet,(data deleted),3,4,0
+2021-01-23,desktop,(data deleted),76,78,5
+2021-01-23,mobile,(data deleted),65,66,3
+2021-01-23,mobile,<Other>,371,369,1
+2021-01-23,mobile,shop.googlemerchandisestore.com,105,107,3
+2021-01-23,desktop,<Other>,495,490,8
+2021-01-23,desktop,google,644,630,10
+2021-01-23,mobile,google,418,412,3
+2021-01-23,mobile,(direct),298,290,5
+2021-01-23,desktop,shop.googlemerchandisestore.com,142,144,2
+2021-01-23,desktop,(direct),405,410,1
+2021-01-23,tablet,google,28,27,0
+2021-01-23,tablet,(direct),13,13,2
+2021-01-23,tablet,(data deleted),5,6,0
+2021-01-23,tablet,shop.googlemerchandisestore.com,4,4,0
+2021-01-23,tablet,<Other>,19,19,0
+2021-01-24,desktop,shop.googlemerchandisestore.com,137,136,5
+2021-01-24,mobile,google,405,405,8
+2021-01-24,desktop,(direct),418,411,1
+2021-01-24,desktop,<Other>,469,466,5
+2021-01-24,mobile,<Other>,308,308,0
+2021-01-24,desktop,google,645,632,6
+2021-01-24,mobile,(data deleted),50,52,1
+2021-01-24,mobile,(direct),248,253,6
+2021-01-24,desktop,(data deleted),89,91,2
+2021-01-24,mobile,shop.googlemerchandisestore.com,91,86,2
+2021-01-24,tablet,google,21,22,0
+2021-01-24,tablet,<Other>,24,24,0
+2021-01-24,tablet,(direct),18,17,0
+2021-01-24,tablet,shop.googlemerchandisestore.com,5,5,0
+2021-01-24,tablet,(data deleted),1,1,0
+2021-01-25,mobile,<Other>,405,403,6
+2021-01-25,desktop,(data deleted),127,126,3
+2021-01-25,mobile,(direct),329,337,4
+2021-01-25,desktop,google,815,798,9
+2021-01-25,desktop,<Other>,615,612,11
+2021-01-25,desktop,(direct),525,516,6
+2021-01-25,mobile,(data deleted),91,85,2
+2021-01-25,mobile,google,576,573,9
+2021-01-25,mobile,shop.googlemerchandisestore.com,116,117,2
+2021-01-25,desktop,shop.googlemerchandisestore.com,179,184,7
+2021-01-25,tablet,shop.googlemerchandisestore.com,5,5,0
+2021-01-25,tablet,(data deleted),7,7,0
+2021-01-25,tablet,google,32,32,0
+2021-01-25,tablet,(direct),22,23,2
+2021-01-25,tablet,<Other>,21,22,0
+2021-01-26,desktop,<Other>,651,645,3
+2021-01-26,mobile,<Other>,425,420,5
+2021-01-26,desktop,google,838,817,5
+2021-01-26,desktop,(direct),536,523,6
+2021-01-26,mobile,(direct),339,332,7
+2021-01-26,mobile,google,595,572,7
+2021-01-26,desktop,(data deleted),155,156,6
+2021-01-26,mobile,shop.googlemerchandisestore.com,128,132,2
+2021-01-26,tablet,google,36,35,0
+2021-01-26,mobile,(data deleted),105,98,5
+2021-01-26,desktop,shop.googlemerchandisestore.com,186,182,8
+2021-01-26,tablet,<Other>,22,22,0
+2021-01-26,tablet,(direct),20,20,0
+2021-01-26,tablet,(data deleted),6,6,1
+2021-01-26,tablet,shop.googlemerchandisestore.com,7,7,0
+2021-01-27,mobile,(direct),364,370,5
+2021-01-27,desktop,shop.googlemerchandisestore.com,199,213,1
+2021-01-27,mobile,<Other>,469,484,14
+2021-01-27,desktop,<Other>,669,688,4
+2021-01-27,mobile,shop.googlemerchandisestore.com,136,151,5
+2021-01-27,desktop,google,902,917,3
+2021-01-27,mobile,google,593,601,5
+2021-01-27,desktop,(direct),573,594,9
+2021-01-27,desktop,(data deleted),179,208,2
+2021-01-27,mobile,(data deleted),94,120,5
+2021-01-27,tablet,<Other>,20,20,0
+2021-01-27,tablet,(direct),21,22,0
+2021-01-27,tablet,google,40,43,0
+2021-01-27,tablet,(data deleted),7,7,0
+2021-01-27,tablet,shop.googlemerchandisestore.com,5,8,1
+2021-01-28,desktop,<Other>,637,642,8
+2021-01-28,mobile,<Other>,449,445,6
+2021-01-28,desktop,shop.googlemerchandisestore.com,198,208,2
+2021-01-28,desktop,google,789,795,5
+2021-01-28,desktop,(direct),591,594,7
+2021-01-28,mobile,google,563,573,7
+2021-01-28,mobile,(data deleted),95,109,5
+2021-01-28,mobile,(direct),382,384,6
+2021-01-28,tablet,<Other>,21,21,0
+2021-01-28,desktop,(data deleted),152,160,6
+2021-01-28,mobile,shop.googlemerchandisestore.com,127,140,15
+2021-01-28,tablet,(direct),16,16,1
+2021-01-28,tablet,shop.googlemerchandisestore.com,11,11,0
+2021-01-28,tablet,google,24,24,0
+2021-01-28,tablet,(data deleted),2,2,1
+2021-01-29,mobile,(data deleted),83,82,8
+2021-01-29,desktop,shop.googlemerchandisestore.com,170,172,5
+2021-01-29,mobile,<Other>,440,437,3
+2021-01-29,desktop,(data deleted),140,131,0
+2021-01-29,desktop,google,795,781,7
+2021-01-29,desktop,<Other>,552,549,8
+2021-01-29,tablet,<Other>,18,18,0
+2021-01-29,mobile,(direct),339,330,6
+2021-01-29,mobile,google,506,499,4
+2021-01-29,desktop,(direct),520,515,9
+2021-01-29,tablet,google,37,37,2
+2021-01-29,tablet,(direct),21,20,1
+2021-01-29,mobile,shop.googlemerchandisestore.com,111,109,1
+2021-01-29,tablet,(data deleted),6,7,0
+2021-01-29,tablet,shop.googlemerchandisestore.com,4,4,0
+2021-01-30,tablet,<Other>,20,20,0
+2021-01-30,desktop,(direct),385,386,6
+2021-01-30,mobile,google,403,398,2
+2021-01-30,mobile,(direct),262,266,2
+2021-01-30,mobile,<Other>,312,311,3
+2021-01-30,desktop,google,562,564,7
+2021-01-30,desktop,shop.googlemerchandisestore.com,128,134,2
+2021-01-30,desktop,(data deleted),93,100,3
+2021-01-30,desktop,<Other>,453,462,1
+2021-01-30,mobile,shop.googlemerchandisestore.com,84,91,4
+2021-01-30,tablet,(data deleted),4,4,0
+2021-01-30,tablet,google,27,26,0
+2021-01-30,mobile,(data deleted),56,63,1
+2021-01-30,tablet,(direct),17,16,0
+2021-01-30,tablet,shop.googlemerchandisestore.com,1,1,0
+2021-01-31,desktop,shop.googlemerchandisestore.com,111,117,0
+2021-01-31,desktop,(data deleted),82,91,1
+2021-01-31,desktop,google,602,605,2
+2021-01-31,mobile,(direct),259,252,0
+2021-01-31,desktop,(direct),359,360,7
+2021-01-31,mobile,<Other>,287,286,2
+2021-01-31,desktop,<Other>,422,420,1
+2021-01-31,mobile,google,409,410,3
+2021-01-31,mobile,(data deleted),58,65,1
+2021-01-31,mobile,shop.googlemerchandisestore.com,100,99,1
+2021-01-31,tablet,(direct),13,13,0
+2021-01-31,tablet,google,30,30,0
+2021-01-31,tablet,<Other>,21,20,1
+2021-01-31,tablet,shop.googlemerchandisestore.com,5,7,0
+2021-01-31,tablet,(data deleted),2,2,0
