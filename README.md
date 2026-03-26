@@ -11,7 +11,7 @@ This project uses Google’s public GA4 obfuscated sample ecommerce dataset from
 A cleaned daily summary was exported and analyzed in Google Sheets.
 
 ## Tools Used
-- BigQuery
+- BigQuery (bigquery_queries.sql – SQL queries used in BigQuery to validate and prepare the analysis dataset)
 - Google Sheets
 - GitHub
 
